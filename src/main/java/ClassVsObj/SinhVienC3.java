@@ -61,6 +61,6 @@ public class SinhVienC3 {
     }
     
     public static void main(String[] args) {
-        
+        SinhVienC3 sv1 = new SinhVienC3();
     }
 }
